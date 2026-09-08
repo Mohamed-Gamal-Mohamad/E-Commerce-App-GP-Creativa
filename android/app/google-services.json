@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "961709455206",
+    "project_id": "store-hub-creativa",
+    "storage_bucket": "store-hub-creativa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961709455206:android:14139992c42607a4653aa7",
+        "android_client_info": {
+          "package_name": "com.example.store_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCExn3Z7or63B_tqy444i9R0335eN9DAJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
